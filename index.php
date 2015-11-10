@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Attivita</title>
+    <meta charset="UTF-8">
+    <title>Attività</title>
     <link rel="shortcut icon" href="img/favicon.ico">
     <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="vendor/datepicker/datepicker3.css">
